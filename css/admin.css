@@ -1,0 +1,24 @@
+
+body{
+    background-color: #2f4050;
+}
+
+#col{
+    background-color:#ffffff;
+}
+
+#side_menu a{
+    color:#9fb1c2;
+
+
+}
+
+#side_menu .active a{
+    color: #fff;
+
+    background-color:#27AAE1;
+    font-weight:bold;
+
+
+
+}
